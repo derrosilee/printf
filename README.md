@@ -50,6 +50,6 @@ output error is encountered, the function returns `-1`.
 
 ## Authors :black_nib:
 
-* Lee Muturi <[bdbaraban](https://github.com/derrosilee)>
-* Olwale Olwale <[mKleinCreative](https://github.com/mKleinCreative)>
+* Lee Muturi <[derrosilee](https://github.com/derrosilee)>
+* Olwale Olwale <[Olwale](https://github.com/Olwale)>
 
