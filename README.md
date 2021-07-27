@@ -51,5 +51,5 @@ output error is encountered, the function returns `-1`.
 ## Authors :black_nib:
 
 * Lee Muturi <[derrosilee](https://github.com/derrosilee)>
-* Olwale Olwale <[Olwale](https://github.com/Olwale)>
+* Olwale Olwale <[Olwale](https://github.com/Olawale-Alx)>
 
